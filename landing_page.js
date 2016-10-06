@@ -35,7 +35,7 @@ var server = http.createServer(function(req, res){
 	}
 })
 server.listen(port, function(){
-	console.log("Running on port: ", port);
+	console.log("Jammin' on port: ", port);
 })
 
 // var http = require('http');
